@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125366850401",
+    "firebase_url": "https://storyapp-6ff32.firebaseio.com",
+    "project_id": "storyapp-6ff32",
+    "storage_bucket": "storyapp-6ff32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125366850401:android:5d1e52347f0629a2f26b20",
+        "android_client_info": {
+          "package_name": "co.jainam.story_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125366850401-rsm9qguptarggbichbg05tqf4bhasp9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vkxxuXcD6EZgSKK1bi6gC-33dbQq7-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125366850401-rsm9qguptarggbichbg05tqf4bhasp9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
